@@ -1,0 +1,6 @@
+Campo,tipo_dato,valores_unicos,nulos,total,pc_nulos
+Fecha,datetime64[ns],24,0,480,0.0
+Region,object,4,0,480,0.0
+Producto,object,5,0,480,0.0
+Ventas,int64,479,0,480,0.0
+Clientes,int64,459,0,480,0.0

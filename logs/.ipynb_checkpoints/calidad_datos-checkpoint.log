@@ -1,0 +1,22 @@
+2025-05-11 19:04:02,062 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:04:02,064 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:04:02,065 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,066 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:04:02,070 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:04:02,071 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:04:02,071 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:04:02,072 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:04:02,072 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,072 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:04:02,072 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:04:02,073 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:04:02,073 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,073 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:04:02,073 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:04:02,073 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:04:02,074 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,074 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:04:02,075 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:04:02,075 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:04:02,075 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,076 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango

@@ -1,0 +1,734 @@
+2025-05-11 19:04:02,062 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:04:02,064 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:04:02,065 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,066 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:04:02,070 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:04:02,071 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:04:02,071 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:04:02,072 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:04:02,072 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,072 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:04:02,072 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:04:02,073 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:04:02,073 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,073 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:04:02,073 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:04:02,073 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:04:02,074 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,074 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:04:02,075 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:04:02,075 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:04:02,075 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:04:02,076 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:19:22,808 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:19:22,810 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:19:22,811 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:19:22,813 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:19:22,816 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:19:22,816 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:19:22,816 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:19:22,817 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:19:22,817 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:19:22,817 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:19:22,817 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:19:22,817 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:19:22,818 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:19:22,818 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:19:22,818 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:19:22,818 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:19:22,818 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:19:22,819 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:19:22,819 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:19:22,819 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:19:22,819 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:19:22,820 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:20:17,063 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:20:17,066 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:20:17,067 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:20:17,069 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:20:17,071 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:20:17,071 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:20:17,071 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:20:17,071 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:20:17,072 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:20:17,072 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:20:17,072 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:20:17,072 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:20:17,072 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:20:17,072 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:20:17,073 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:20:17,073 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:20:17,073 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:20:17,073 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:20:17,074 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:20:17,074 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:20:17,074 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:20:17,074 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:21:52,332 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:21:52,332 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:21:52,333 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:21:52,333 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:21:52,335 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:21:52,335 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:21:52,335 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:21:52,335 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:21:52,335 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:21:52,335 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:21:52,335 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:21:52,335 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:21:52,335 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:21:52,335 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:21:52,335 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:21:52,336 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:21:52,336 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:21:52,336 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:21:52,336 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:21:52,336 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:21:52,336 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:21:52,336 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:22:19,907 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 19:22:19,908 - WARNING - No such comm: 4db6e4bd-cbef-404f-98d0-c17b2529b671
+2025-05-11 19:32:10,240 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 19:32:10,242 - WARNING - No such comm: dab84340-38aa-4bb2-8527-254f0b1e528e
+2025-05-11 19:32:45,326 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:32:45,328 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:32:45,329 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:32:45,331 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:32:45,334 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:32:45,334 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:32:45,334 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:32:45,334 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:32:45,335 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:32:45,335 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:32:45,335 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:32:45,335 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:32:45,335 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:32:45,336 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:32:45,336 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:32:45,336 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:32:45,336 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:32:45,337 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:32:45,338 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:32:45,338 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:32:45,338 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:32:45,339 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:33:34,950 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 19:33:34,951 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 19:33:34,951 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:33:34,953 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 19:33:34,957 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 19:33:34,958 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 19:33:34,959 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 19:33:34,959 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 19:33:34,959 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:33:34,960 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 19:33:34,960 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 19:33:34,960 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 19:33:34,961 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:33:34,961 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 19:33:34,961 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 19:33:34,961 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 19:33:34,962 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:33:34,962 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:33:34,963 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 19:33:34,963 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 19:33:34,963 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 19:33:34,963 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 19:34:24,205 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 19:34:24,206 - WARNING - No such comm: 7058ad09-f0f2-4110-962c-933ab508da2b
+2025-05-11 19:52:56,413 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`ventas`, `region`, `producto`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o109.agg.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`ventas`, `region`, `producto`]. SQLSTATE: 42703;
+'Aggregate [region#1, producto#2], [region#1, producto#2, sum(ventas#3) AS ventas_totales#275L, 'sum('clientes) AS ventas_totales#276]
++- Project [region#1, producto#2, ventas#3]
+   +- Filter (anio#113 = 2024)
+      +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#143]
+         +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dayofmonth(fecha#0) AS dia#133, anio_mes#61]
+            +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, month(fecha#0) AS mes#123, dia#52, anio_mes#61]
+               +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#113, mes#44, dia#52, anio_mes#61]
+                  +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dia#52, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#61]
+                     +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dayofmonth(fecha#0) AS dia#52]
+                        +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, month(fecha#0) AS mes#44]
+                           +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#37]
+                              +- Relation [fecha#0,region#1,producto#2,ventas#3,clientes#4] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:82)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:52)
+	at org.apache.spark.sql.api.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:161)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:148)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-11 19:53:22,138 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`region`, `producto`, `ventas_totales`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o168.agg.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`region`, `producto`, `ventas_totales`]. SQLSTATE: 42703;
+'Aggregate ['sum('clientes) AS clientes_totales#292]
++- Aggregate [region#1, producto#2], [region#1, producto#2, sum(ventas#3) AS ventas_totales#284L]
+   +- Project [region#1, producto#2, ventas#3]
+      +- Filter (anio#113 = 2024)
+         +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#143]
+            +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dayofmonth(fecha#0) AS dia#133, anio_mes#61]
+               +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, month(fecha#0) AS mes#123, dia#52, anio_mes#61]
+                  +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#113, mes#44, dia#52, anio_mes#61]
+                     +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dia#52, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#61]
+                        +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dayofmonth(fecha#0) AS dia#52]
+                           +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, month(fecha#0) AS mes#44]
+                              +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#37]
+                                 +- Relation [fecha#0,region#1,producto#2,ventas#3,clientes#4] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:82)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:52)
+	at org.apache.spark.sql.api.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:161)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:148)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-11 19:54:02,986 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`ventas`, `region`, `producto`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o211.agg.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `clientes` cannot be resolved. Did you mean one of the following? [`ventas`, `region`, `producto`]. SQLSTATE: 42703;
+'Aggregate [region#1, producto#2], [region#1, producto#2, 'sum('clientes) AS clientes_totales#331]
++- Project [region#1, producto#2, ventas#3]
+   +- Filter (anio#113 = 2024)
+      +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#143]
+         +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dayofmonth(fecha#0) AS dia#133, anio_mes#61]
+            +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, month(fecha#0) AS mes#123, dia#52, anio_mes#61]
+               +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#113, mes#44, dia#52, anio_mes#61]
+                  +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dia#52, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#61]
+                     +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dayofmonth(fecha#0) AS dia#52]
+                        +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, month(fecha#0) AS mes#44]
+                           +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#37]
+                              +- Relation [fecha#0,region#1,producto#2,ventas#3,clientes#4] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:82)
+	at org.apache.spark.sql.RelationalGroupedDataset.toDF(RelationalGroupedDataset.scala:52)
+	at org.apache.spark.sql.api.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:161)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:148)
+	at org.apache.spark.sql.RelationalGroupedDataset.agg(RelationalGroupedDataset.scala:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-11 20:03:17,715 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `ventas_totales` cannot be resolved. Did you mean one of the following? [`ventas`, `anio_mes`, `anio`, `clientes`, `producto`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o67.withColumn.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `ventas_totales` cannot be resolved. Did you mean one of the following? [`ventas`, `anio_mes`, `anio`, `clientes`, `producto`]. SQLSTATE: 42703;
+'Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, anio_mes#143, row_number() windowspecdefinition(region#1, 'ventas_totales DESC NULLS LAST, specifiedwindowframe(RowFrame, unboundedpreceding$(), currentrow$())) AS rank#425]
++- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#143]
+   +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dayofmonth(fecha#0) AS dia#133, anio_mes#61]
+      +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, month(fecha#0) AS mes#123, dia#52, anio_mes#61]
+         +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#113, mes#44, dia#52, anio_mes#61]
+            +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dia#52, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#61]
+               +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dayofmonth(fecha#0) AS dia#52]
+                  +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, month(fecha#0) AS mes#44]
+                     +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#37]
+                        +- Relation [fecha#0,region#1,producto#2,ventas#3,clientes#4] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.Dataset.withPlan(Dataset.scala:2230)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:824)
+	at org.apache.spark.sql.Dataset.withColumns(Dataset.scala:1224)
+	at org.apache.spark.sql.Dataset.withColumns(Dataset.scala:213)
+	at org.apache.spark.sql.api.Dataset.withColumn(Dataset.scala:2046)
+	at org.apache.spark.sql.Dataset.withColumn(Dataset.scala:1821)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-11 20:22:12,799 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `ventas_totales` cannot be resolved. Did you mean one of the following? [`ventas`, `anio_mes`, `anio`, `clientes`, `producto`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o67.withColumn.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `ventas_totales` cannot be resolved. Did you mean one of the following? [`ventas`, `anio_mes`, `anio`, `clientes`, `producto`]. SQLSTATE: 42703;
+'Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, anio_mes#143, '`/`('ventas_totales, 82053793) AS ventas_cuota#514]
++- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dia#133, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#143]
+   +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, mes#123, dayofmonth(fecha#0) AS dia#133, anio_mes#61]
+      +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#113, month(fecha#0) AS mes#123, dia#52, anio_mes#61]
+         +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#113, mes#44, dia#52, anio_mes#61]
+            +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dia#52, date_format(cast(fecha#0 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#61]
+               +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, mes#44, dayofmonth(fecha#0) AS dia#52]
+                  +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, anio#37, month(fecha#0) AS mes#44]
+                     +- Project [fecha#0, region#1, producto#2, ventas#3, clientes#4, year(fecha#0) AS anio#37]
+                        +- Relation [fecha#0,region#1,producto#2,ventas#3,clientes#4] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$foreachUp$1$adapted(TreeNode.scala:251)
+	at scala.collection.immutable.Vector.foreach(Vector.scala:2124)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:251)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.Dataset.withPlan(Dataset.scala:2230)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:824)
+	at org.apache.spark.sql.Dataset.withColumns(Dataset.scala:1224)
+	at org.apache.spark.sql.Dataset.withColumns(Dataset.scala:213)
+	at org.apache.spark.sql.api.Dataset.withColumn(Dataset.scala:2046)
+	at org.apache.spark.sql.Dataset.withColumn(Dataset.scala:1821)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-11 20:33:38,667 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:33:38,669 - WARNING - No such comm: 9047f18d-a249-40ee-98e7-34f72fbe54bb
+2025-05-11 20:41:33,886 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:41:33,886 - WARNING - No such comm: b18e9838-6c7f-4190-9ca0-bfa3c06acbbe
+2025-05-11 20:46:43,121 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:46:43,125 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:46:43,127 - WARNING - No such comm: f0f9a9bc-239f-4b43-b6b8-1b2f81373884
+2025-05-11 20:46:43,127 - WARNING - No such comm: 423dcb0d-beef-41bb-8b37-71f84034420f
+2025-05-11 20:55:16,662 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:55:16,664 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 20:55:16,665 - WARNING - No such comm: ac67445a-f095-4eb1-9a70-7f44f2d3b8c5
+2025-05-11 20:55:16,666 - WARNING - No such comm: 37002822-282f-4ac6-a4d2-587c8d4070f2
+2025-05-11 21:37:24,766 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 21:37:24,767 - WARNING - No such comm: f844c667-890e-4d65-82fe-d14bf1b518d9
+2025-05-11 21:51:29,508 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 21:51:29,510 - WARNING - No such comm: 1ff227c1-c1e3-4a0a-bf2b-f666599dac14
+2025-05-11 21:51:34,422 - INFO - Iniciando pruebas de calidad para columna 'Fecha'
+2025-05-11 21:51:34,423 - INFO - [Fecha] - Tipo datetime64[ns]: PASÓ. 
+2025-05-11 21:51:34,424 - INFO - [Fecha] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 21:51:34,427 - INFO - [Fecha] - Fechas futuras: PASÓ. 0 registros futuros encontrados
+2025-05-11 21:51:34,430 - INFO - [Fecha] - Fechas antes de 2000-01-01: PASÓ. 0 registros antiguos encontrados
+2025-05-11 21:51:34,430 - INFO - [Fecha] - Orden creciente (monotonicidad): PASÓ. 
+2025-05-11 21:51:34,431 - INFO - Iniciando pruebas de calidad para columna 'Region' (tipo object)
+2025-05-11 21:51:34,431 - INFO - [Region] - Tipo object/string: PASÓ. 
+2025-05-11 21:51:34,431 - INFO - [Region] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 21:51:34,431 - INFO - [Region] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 4
+2025-05-11 21:51:34,431 - INFO - Iniciando pruebas de calidad para columna 'Producto' (tipo object)
+2025-05-11 21:51:34,432 - INFO - [Producto] - Tipo object/string: PASÓ. 
+2025-05-11 21:51:34,432 - INFO - [Producto] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 21:51:34,432 - INFO - [Producto] - Cardinalidad máxima (100): PASÓ. Únicos encontrados: 5
+2025-05-11 21:51:34,432 - INFO - Iniciando pruebas de calidad para columna 'Ventas' (tipo entero)
+2025-05-11 21:51:34,432 - INFO - [Ventas] - Tipo entero (int): PASÓ. 
+2025-05-11 21:51:34,433 - INFO - [Ventas] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 21:51:34,434 - INFO - [Ventas] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 21:51:34,434 - INFO - Iniciando pruebas de calidad para columna 'Clientes' (tipo entero)
+2025-05-11 21:51:34,434 - INFO - [Clientes] - Tipo entero (int): PASÓ. 
+2025-05-11 21:51:34,435 - INFO - [Clientes] - Valores nulos: PASÓ. Nulos encontrados: 0
+2025-05-11 21:51:34,436 - INFO - [Clientes] - Rango entre 0 y 10000000: PASÓ. 0 registros fuera de rango
+2025-05-11 21:51:38,990 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-11 21:51:38,992 - WARNING - No such comm: cb664653-1905-482e-89da-1872b78fca68
+2025-05-12 04:38:40,410 - ERROR - No such comm target registered: jupyter.widget.control
+2025-05-12 04:38:40,412 - WARNING - No such comm: 424642cb-ae1a-4fef-a008-5b1db74c7465
+2025-05-12 04:53:09,115 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `x` cannot be resolved. Did you mean one of the following? [`dia`, `mes`, `anio`, `fecha`, `region`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o691.select.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `x` cannot be resolved. Did you mean one of the following? [`dia`, `mes`, `anio`, `fecha`, `region`]. SQLSTATE: 42703;
+'Project ['x, 'y, cluster#802]
++- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, anio_mes#359, features#716, UDF(features#716) AS cluster#802]
+   +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, anio_mes#359, UDF(struct(clientes_double_VectorAssembler_694fc45cf665, cast(clientes#328 as double), ventas_double_VectorAssembler_694fc45cf665, cast(ventas#327 as double))) AS features#716]
+      +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, date_format(cast(fecha#324 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#359]
+         +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dayofmonth(fecha#324) AS dia#350]
+            +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, month(fecha#324) AS mes#342]
+               +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, year(fecha#324) AS anio#334]
+                  +- Relation [fecha#324,region#325,producto#326,ventas#327,clientes#328] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.Dataset.withPlan(Dataset.scala:2230)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:824)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:213)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2025-05-12 04:53:32,479 - ERROR - [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `vlientes` cannot be resolved. Did you mean one of the following? [`clientes`, `ventas`, `anio`, `anio_mes`, `cluster`]. SQLSTATE: 42703
+Traceback (most recent call last):
+  File "/usr/local/spark/python/pyspark/errors/exceptions/captured.py", line 247, in deco
+    return f(*a, **kw)
+           ^^^^^^^^^^^
+  File "/usr/local/spark/python/lib/py4j-0.10.9.7-src.zip/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o691.select.
+: org.apache.spark.sql.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column, variable, or function parameter with name `vlientes` cannot be resolved. Did you mean one of the following? [`clientes`, `ventas`, `anio`, `anio_mes`, `cluster`]. SQLSTATE: 42703;
+'Project ['vlientes, ventas#327, cluster#802]
++- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, anio_mes#359, features#716, UDF(features#716) AS cluster#802]
+   +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, anio_mes#359, UDF(struct(clientes_double_VectorAssembler_694fc45cf665, cast(clientes#328 as double), ventas_double_VectorAssembler_694fc45cf665, cast(ventas#327 as double))) AS features#716]
+      +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dia#350, date_format(cast(fecha#324 as timestamp), yyyy-MM, Some(Etc/UTC)) AS anio_mes#359]
+         +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, mes#342, dayofmonth(fecha#324) AS dia#350]
+            +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, anio#334, month(fecha#324) AS mes#342]
+               +- Project [fecha#324, region#325, producto#326, ventas#327, clientes#328, year(fecha#324) AS anio#334]
+                  +- Relation [fecha#324,region#325,producto#326,ventas#327,clientes#328] csv
+
+	at org.apache.spark.sql.errors.QueryCompilationErrors$.unresolvedAttributeError(QueryCompilationErrors.scala:379)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.org$apache$spark$sql$catalyst$analysis$CheckAnalysis$$failUnresolvedAttribute(CheckAnalysis.scala:153)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7(CheckAnalysis.scala:315)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$7$adapted(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$6$adapted(CheckAnalysis.scala:313)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2(CheckAnalysis.scala:313)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis0$2$adapted(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:252)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0(CheckAnalysis.scala:218)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis0$(CheckAnalysis.scala:200)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis0(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:189)
+	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:176)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:201)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:223)
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:393)
+	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:221)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:92)
+	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:138)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:234)
+	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:608)
+	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:234)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:233)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:92)
+	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:89)
+	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:73)
+	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:96)
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:742)
+	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:94)
+	at org.apache.spark.sql.Dataset.withPlan(Dataset.scala:2230)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:824)
+	at org.apache.spark.sql.Dataset.select(Dataset.scala:213)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
